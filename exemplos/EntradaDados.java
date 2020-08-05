@@ -15,7 +15,7 @@ public class EntradaDados {
         idade = sc.nextInt();
         
         System.out.println("O meu nome e : " + nome + " e tenho " + idade + " anos");
-        System.out.println("O valor de PI " + Math.PI);       
+        System.out.println("O valor de PI " + Math.PI);      
 
         sc.close();
 	}
